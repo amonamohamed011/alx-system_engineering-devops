@@ -1,4 +1,6 @@
 #!/bin/bash
-ls -la ..
-/boot 
-ls /boot
+ls -al
+parent_directory=$(dirname"$PWD")
+echo -e "\nFiles in the parent directory:"
+ls -al "$parent_directory"
+ls -al/boot
