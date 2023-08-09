@@ -1,1 +1,1 @@
-This is shell bascis
+This is shell basics
